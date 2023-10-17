@@ -12,3 +12,5 @@ npm run dev
 
 - nodejs installed
 - create new project using [vite](https://vitejs.dev/guide/)
+
+npm run build -> npm run dev
